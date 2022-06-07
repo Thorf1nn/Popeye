@@ -4,9 +4,9 @@ Popeye is the first DevOps Project at Epitech.
 
 ## Contents 📌
 
- - [Goal](https://github.com/Thorf1nn/my_runner#goal-)
- - [Usage](https://github.com/Thorf1nn/my_runner#usage-)
- - [Help](https://github.com/Thorf1nn/my_runner#help-)
+ - [Goal](https://github.com/Thorf1nn/popeye#goal-)
+ - [Usage](https://github.com/Thorf1nn/popeye#usage-)
+ - [Help](https://github.com/Thorf1nn/popeye#help-)
 
 
 ## Goal 🎯
